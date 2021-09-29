@@ -89,7 +89,7 @@ public class MainActivity extends AppCompatActivity {
             BMRtulos = " Kcal";
             tulos2.setText(df.format(bmr)+ BMRtulos);
         }
-
+            //
     }
     //Rasvaprosentti metodi
     public void laskeRAS(View view) {
